@@ -9,16 +9,33 @@
     <link href="assets/css/main.css" rel="stylesheet">
 </head>
 <body>
-<div class="js-clock">
-    <h1 class="js-clock__title">
-        00:00
-    </h1>
-    <form class="js-form form">
-        <input type="text" placeholder="What is your name?"/>
+<div class="window">
+    <div class="weather">
+        <span class="js-weather"></span>
+    </div>
+    <div class="js-clock">
+        <h1 class="js-clock__title clock__title">
+            00:00
+        </h1>
+    </div>
+    <form class="js-greetingForm form">
+        <input placeholder="What is your name?" type="text"/>
     </form>
-    <h4 class = "js-greeting greeting"></h4>
+    <h4 class="js-greeting greeting"></h4>
+    <form class="js-toDoForm toDoForm">
+        <input type="text" placeholder="Write a to do"/>
+    </form>
+    <ul class="js-toDoList">
+
+    </ul>
+
 </div>
+<script src="assets/js/config.js"></script>
 <script src="assets/js/clock.js"></script>
 <script src="assets/js/greeting.js"></script>
+<script src="assets/js/todo.js"></script>
+<script src="assets/js/bg.js"></script>
+<script src="assets/js/weather.js"></script>
+
 </body>
 </html>
