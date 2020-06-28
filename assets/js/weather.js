@@ -30,11 +30,10 @@ function handleGeoSuccess(position){
 }
 
 function handleGeoError(){
-    alert('error');
+    alert('Error, Would you change the URL to "https"://www.han.codes/Momentum_clone/');
 }
 
 function askForCoords(){
-    console.log('test');
     navigator.geolocation.getCurrentPosition(handleGeoSuccess, handleGeoError);
 }
 

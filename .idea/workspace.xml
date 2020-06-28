@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d56b3c42-fcc7-47a6-b08a-ec28e71af5c3" name="Default Changelist" comment="" />
+    <list default="true" id="d56b3c42-fcc7-47a6-b08a-ec28e71af5c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/weather.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -76,6 +81,8 @@
       <workItem from="1592960964979" duration="1343000" />
       <workItem from="1592967124954" duration="1223000" />
       <workItem from="1592968439554" duration="3476000" />
+      <workItem from="1593324814371" duration="2500000" />
+      <workItem from="1593327340451" duration="205000" />
     </task>
     <servers />
   </component>
